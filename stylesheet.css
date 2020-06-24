@@ -1,13 +1,13 @@
-.fe {padding-top:0em;}
-.fe .center{margin:auto; width:80%; font-family:Tahoma; font-size:2em} 
-.fe .bullets {padding-bottom:1.2em;}
-.fe .title{padding-top:0em;margin-top:0em;}
-.fe .tasks {width: 85%;margin:auto;}
-.fe .task {padding-left: 1%;padding-right: 1%;padding-bottom:3em;}
-.fe .grow img{transition: all .2s ease-in-out;}
-.fe .grow img:hover{transform: scale(1.1);}
-.fe .col-xs-12 img{max-width: 30%;padding-bottom:10px;}
-.fe .welcome-header {max-width: 5em; padding-top: 0.5em;}
+.dsia {padding-top:0em;}
+.dsia .center{margin:auto; width:80%; font-family:Tahoma; font-size:2em} 
+.dsia .bullets {padding-bottom:1.2em;}
+.dsia .title{padding-top:0em;margin-top:0em;}
+.dsia .tasks {width: 85%;margin:auto;}
+.dsia .task {padding-left: 1%;padding-right: 1%;padding-bottom:3em;}
+.dsia .grow img{transition: all .2s ease-in-out;}
+.dsia .grow img:hover{transform: scale(1.1);}
+.dsia .col-xs-12 img{max-width: 30%;padding-bottom:10px;}
+.dsia .welcome-header {max-width: 5em; padding-top: 0.5em;}
 
 .slack {max-width: 8em; border: .15em solid #10629B; border-radius:.8em; transition: all .2s ease-in-out;}
 .slack:hover {transform: scale(1.1);}
@@ -16,7 +16,7 @@ hr {
   border-top: 1px solid #fafafa;
 }
 
-.fe.intro {
+.dsia.intro {
   
   background-color: #F2FAFD;
   border-radius: 0.5rem;
@@ -24,7 +24,7 @@ hr {
   
 }
  
-.fe.header {
+.dsia.header {
 
   display: flex;
   flex-direction: row;
@@ -42,9 +42,9 @@ hr {
 
 }
 
-.fe.title {
+.dsia.title {
 
-background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/master/assets/bg-bar-blue.svg");
+background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-dsia/master/assets/bg-bar-blue.svg");
 
   background-repeat: no-repeat;
   background-size: initial;
@@ -54,7 +54,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 
 }
 
-.fe.logo {
+.dsia.logo {
 
   background-color: #fff;
   border-radius: 100rem;
@@ -69,7 +69,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 
 }
 
-.fe.video {
+.dsia.video {
 
   max-width: 600px;
 
@@ -95,7 +95,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
   height: 100%;
 }
 
-.fe.list {
+.dsia.list {
 
   display: inline-block;
   padding: 1rem 2rem 1rem 1.5rem;
@@ -117,7 +117,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 
 }
 
-.fe.list:hover {
+.dsia.list:hover {
 
   background-color: #fafafa;
 
@@ -130,7 +130,7 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-fe/mas
 }
 
 
-.fe.row {
+.dsia.row {
 
   display: block;
   width: auto;
