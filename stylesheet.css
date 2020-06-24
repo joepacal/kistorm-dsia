@@ -56,13 +56,10 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-dsia/m
 
 .dsia.logo {
 
-  background-color: #fff;
-  border-radius: 100rem;
-
   width: 64px;
   height: 64px;
 
-  padding: 1rem;
+  padding: 0.5rem;
   margin: 0rem 1rem 0rem 0rem;
 
   flex-grow: none;
