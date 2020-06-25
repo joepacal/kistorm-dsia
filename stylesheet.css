@@ -33,19 +33,25 @@ hr {
   justify-content: space-between;
   align-items: center;
 
-  background-color: #F2FAFD;
-  border-radius: 0.5rem;
+  background: #020C18;
+  background-image: url("assets/bg-africa.png");
+  background: url("assets/bg-africa.png") no-repeat 90% 0%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
+  background-size: 212px, cover;
 
-  padding: 0rem 1rem 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  border-bottom: solid 20px #2E5586;
+
+  
   margin: 0rem 0rem 1rem 0rem;
 
-  min-height: 20vh;
+  color: #fff;
+
+  height: 136px;
+
 
 }
 
 .dsia.title {
-
-background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-dsia/master/assets/bg-bar-blue.svg");
 
   background-repeat: no-repeat;
   background-size: initial;
@@ -58,10 +64,12 @@ background-image: url("https://raw.githubusercontent.com/joepacal/kistorm-dsia/m
 .dsia.logo {
 
   width: 64px;
-  height: 64px;
+  height: 40px;
 
+  background-color: #fff;
   padding: 0.5rem;
   margin: 0rem 1rem 0rem 0rem;
+  border-radius: 16px;
 
   flex-grow: none;
 
