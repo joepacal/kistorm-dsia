@@ -34,8 +34,8 @@ hr {
   align-items: center;
 
   background: #020C18;
-  background-image: url("assets/bg-africa.png");
-  background: url("assets/bg-africa.png") no-repeat 90% 0%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
+  background-image: url("https://joepacal.github.io/kistorm-dsia/assets/bg-africa.png");
+  background: url("https://joepacal.github.io/kistorm-dsia/assets/bg-africa.png") no-repeat 90% 0%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
   background-size: 212px, cover;
 
   border-radius: 0.5rem;
