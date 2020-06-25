@@ -18,7 +18,10 @@ hr {
 
 .dsia.intro {
   
-  background-color: #F2FAFD;
+  background-color: #DAE3ED;
+  background: linear-gradient(180deg, rgba(104, 132, 165, 0.55) 0%, rgba(71, 121, 174, 0.04) 82.77%);
+  border-top: solid 20px #2E5586;
+
   border-radius: 0.5rem;
   padding: 2rem 1rem 1rem 1rem;
   
