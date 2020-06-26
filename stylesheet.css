@@ -16,6 +16,10 @@ hr {
   border-top: 1px solid #fafafa;
 }
 
+a {
+
+  text-decoration: underline;
+}
 
 h2,h3,h4,h5,h6 {
   margin-bottom: 1rem;
