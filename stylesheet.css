@@ -161,6 +161,16 @@ h2,h3,h4,h5,h6 {
 
 
 .avatarCard {
+
+  display:flex;
+  flex-direction: row;
+
+  justify-content: left;
+  align-items: center;
+
+}
+
+.avatarText {
   display: inline-block;
   width: 16rem;
   height: auto;
@@ -172,8 +182,8 @@ h2,h3,h4,h5,h6 {
 .avatar {
 
   display: inline-block;
-  width: 112px;
-  height: 112px;
+  width: 72px;
+  height: 72px;
 
 }
 
