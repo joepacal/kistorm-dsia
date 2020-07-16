@@ -91,14 +91,7 @@ h2,h3,h4,h5,h6 {
 
 .dsia.video {
 
-  max-width: 600px;
-
   padding: 2rem 1rem; 
-
-  background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/5ec6e59a1ecb592cc3e7594a_bg-bar-1.svg");
-  background-repeat: no-repeat;
-  background-size: initial;
-  background-position: right bottom;
 
 }
 
